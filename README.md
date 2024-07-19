@@ -1,0 +1,1 @@
+My Project Name is E-Notes. In these project firstly user can register and login, after login user can add notes and view Notes user can view profile , forgot Password and user can edit these added note.
